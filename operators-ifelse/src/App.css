@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+h1{
+    font-family: cursive;
+}
+form{
+  display: inline-block;
+  width: 600px;
+  height: 700px;
+  background-color: yellow;
+  border: 10px solid green;
+}
+label{
+  display: inline-block;
+  width:150px;
+  font-size: 1.2rem;
+}
+ div{
+  margin: 30px;
+}
